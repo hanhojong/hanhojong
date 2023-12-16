@@ -4,7 +4,7 @@ ___
 # Hi there! I'm hojong.
 I am a new data analyst who is interested in deriving insights through data analysis.⌨
 
-Please give me a lot of feedback and advice for my continued development.🔥
+We will always do our best without stopping to develop.🔥
 ___
 
 ## My Skills
