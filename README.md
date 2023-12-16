@@ -2,7 +2,7 @@
 ___
 
 # Hi there! I'm hojong.
-나는 무엇을 희망하고있는 데이터분석가야
+I am a new data analyst who is interested in deriving insights through data analysis.🔥
 
 ___
 
