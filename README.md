@@ -71,4 +71,4 @@ ___
   4. 결론 및 기대효과: 금천구 상권에 맞는 다양한 이벤트 도출
 
 * 파이썬 코드
-  * [상권분석 파이썬코드](http://localhost:8888/notebooks/commercial%20analysis.ipynb)
+  * [상권분석 파이썬코드](https://github.com/hanhojong/project/blob/main/commercial%20analysis.ipynb)
