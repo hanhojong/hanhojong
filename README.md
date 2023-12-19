@@ -25,8 +25,8 @@ ___
 
 * 분석툴
   * 파이썬
-    1. numpy, pandas 패키지를 활용해 분석
-    2. matplotlib, seaborn, wordcloud 패키리를 활용해 시각화
+    - numpy, pandas 패키지를 활용해 분석
+    - matplotlib, seaborn, wordcloud 패키리를 활용해 시각화
 
 * 분석절차
   1. 데이터 수집: '카카오톡 내보내기' 기능을 이용해 카톡방 텍스트 추출
