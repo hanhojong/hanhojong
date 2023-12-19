@@ -56,7 +56,7 @@ ___
   4. 결론 및 기대효과: 노인복지시설 최적입지로 9개의 행정동을 선정
 
 * 파이썬 코드
-  * [히트맵 파이썬 코드](http://localhost:8888/notebooks/optimal%20location.ipynb)
+  * [히트맵 파이썬 코드](https://github.com/hanhojong/project/blob/main/optimal%20location.ipynb)
 
 ___
 
