@@ -40,7 +40,7 @@ ___
 * 프로젝트 한계점
 
 * 파이썬 코드
-  * [텍스트분석 파이썬코드](http://localhost:8888/notebooks/kakaotalk%20text%20analysis.ipynb)
+  * [텍스트분석 파이썬코드](https://github.com/hanhojong/project/blob/main/commercial%20analysis.ipynb)
   * [워드클라우드 파이썬코드](http://localhost:8888/notebooks/wordcloud.ipynb)
 
 ___
