@@ -39,8 +39,8 @@ ___
   2. 느낌표 사용 횟수, 자주 웃는 순위 등을 통해 팀원들의 메신저에서의 대화 습관 확인
 
 * 프로젝트 한계점
-  1.
-  2. 
+  1. 적을 예정
+  2. 적을 예정
 
 * 파이썬 코드
   * [텍스트분석 파이썬코드](https://github.com/hanhojong/project/blob/main/kakaotalk%20text%20analysis.ipynb)
