@@ -35,16 +35,16 @@ ___
   4. 결론 및 기대효과: 비속어 사용 빈도수, 시간 별 대화 빈도수 등을 통해 사람들의 대화 및 생활습관 확인
 
 * 분석결과
-  1. 대화가 가장 활발한 시간, 카톡 전송 횟수 등 다양한 데이터 분석을 통해 저를 포함한 팀원들이 늦은 시간까지 활동하는 것을 확인
-  2. 느낌표 사용 횟수, 자주 웃는 순위 등을 통해 팀원들의 메신저에서의 대화 습관 확인
+  - 대화가 가장 활발한 시간, 카톡 전송 횟수 등 다양한 데이터 분석을 통해 저를 포함한 팀원들이 늦은 시간까지 활동하는 것을 확인
+  - 느낌표 사용 횟수, 자주 웃는 순위 등을 통해 팀원들의 메신저에서의 대화 습관 확인
 
 * 프로젝트 한계점
-  1. 적을 예정
-  2. 적을 예정
+  - 적을 예정
+  - 적을 예정
 
 * 파이썬 코드
-  * [텍스트분석 파이썬코드](https://github.com/hanhojong/project/blob/main/kakaotalk%20text%20analysis.ipynb)
-  * [워드클라우드 파이썬코드](https://github.com/hanhojong/project/blob/main/wordcloud.ipynb)
+  - [텍스트분석 파이썬코드](https://github.com/hanhojong/project/blob/main/kakaotalk%20text%20analysis.ipynb)
+  - [워드클라우드 파이썬코드](https://github.com/hanhojong/project/blob/main/wordcloud.ipynb)
 
 ___
 
