@@ -50,7 +50,7 @@ ___
   - [노인복지시설개수 heatmap](https://github.com/hanhojong/project/blob/main/%EB%85%B8%EC%9D%B8%EB%B3%B5%EC%A7%80%EC%8B%9C%EC%84%A4%EA%B0%9C%EC%88%98%20heatmap.png)
   - [부동산시세 heatmap]()
   - [노인인구 heatmap](https://github.com/hanhojong/project/blob/main/%EB%85%B8%EC%9D%B8%EC%9D%B8%EA%B5%AC%20heatmap.png)
-  - [대중교통편의지수 heatmap]()
+  - [대중교통편의지수 heatmap](https://github.com/hanhojong/project/blob/main/%EB%8C%80%EC%A4%91%EA%B5%90%ED%86%B5%ED%8E%B8%EC%9D%98%EC%A7%80%EC%88%98%20heatmap.png)
 
 ___
 
