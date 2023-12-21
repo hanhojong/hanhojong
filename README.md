@@ -46,7 +46,11 @@ ___
   - 분석에서 고려한 변수들로 최적입지를 선정하기엔 분석의 타당도가 떨어진다는 한계점
  
 * 파이썬 코드
-  - [히트맵 파이썬코드]()
+  - [히트맵 파이썬코드](https://github.com/hanhojong/project/blob/main/heatmap%20code.ipynb)
+  - [노인복지시설개수 heatmap]()
+  - [부동산시세 heatmap]()
+  - [노인인구 heatmap]()
+  - [대중교통편의지수 heatmap]()
 
 ___
 
