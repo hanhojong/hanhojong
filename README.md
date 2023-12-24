@@ -78,7 +78,7 @@ ___
   - 각 구단의 제정 상태에 따라 책정되는 금액이 상이할 수 있다는 한계
 
 * 프로젝트
-  - [프로야구투수연봉예측 프로젝트]()
+  - [프로야구투수연봉예측 프로젝트](https://github.com/hanhojong/project/blob/main/%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC%20%ED%88%AC%EC%88%98%20%EC%97%B0%EB%B4%89%EC%98%88%EC%B8%A1.pdf)
 
 ___
 
